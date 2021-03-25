@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NDavies-02
+- 👀 I’m interested in Cybersecurity and Digital Privacy
+- 🌱 I’m currently learning Python and basic Web Development for university
+- 📫 How to reach me ... check the links at the end of my Carrd! (Link on profile)
