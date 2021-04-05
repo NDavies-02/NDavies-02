@@ -2,3 +2,5 @@
 - 👀 I’m interested in Cybersecurity and Digital Privacy
 - 🌱 I’m currently learning Python and basic Web Development for university
 - 📫 How to reach me ... check the links at the end of my Carrd! (Link on profile)
+- 🐦 Follow me on Twitter @NDavies_02
+- 📎  Or visit my website: https://ndavies.rf.gd/
