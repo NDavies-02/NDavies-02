@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NDavies-02
 - 👀 I’m interested in Cybersecurity and Digital Privacy
 - 🎌 I also love Japan!
-- 🌱 I’m currently learning Python and basic Web Development for university
-- 📫 How to reach me ... check the links at the end of my Carrd! (Link on profile)
-- 🐦 Follow me on Twitter @NDavies_02
-- 📎  Or visit my website: https://ndavies.rf.gd/
+- 🌱 I’m currently learning Python and Web Development for university... my course is Cybersecurity
+- 📫 How to reach me ... 
+   - Check the links at the end of my Carrd! (Link on profile)
+   - 🐦 Follow me on Twitter @NDavies_02
+   - 📎  Or visit my website: https://ndavies.codes/
