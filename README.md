@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NDavies-02
-- 👀 I’m interested in Cybersecurity and Digital Privacy
-- 🌱 I’m currently developing my Python skills...
+- 👀 I’m interested in digital privacy and cybersecurity
 - 📫 ...And here's how you can get in touch:
    - 🐦 Follow me on Twitter @NDavies_02
-   - 📎  Visit my website: https://ndavies.codes/
-   - Or view my other links on my Carrd page: https://ndavies.carrd.co/
+   - 📎 Visit my website: https://ndavies.codes/
+   - ➡️ Or view my other links on my Carrd page: https://ndavies.carrd.co/
