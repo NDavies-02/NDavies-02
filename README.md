@@ -2,5 +2,5 @@
 - 👀 I’m interested in digital privacy and cybersecurity
 - 📫 ...And here's how you can get in touch:
    - 🐦 Follow me on Twitter @NDavies_02
-   - 📎 Visit my website: https://ndavies.codes/
+   - 📎 Visit my website: New website coming soon! Currently expected late April 2022.
    - ➡️ Or view my other links on my Carrd page: https://ndavies.carrd.co/
