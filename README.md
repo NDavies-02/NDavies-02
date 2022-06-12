@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @NDavies-02
-- 👀 I’m interested in digital privacy and cybersecurity
-- 📫 ...And here's how you can get in touch:
-   - 🐦 Follow me on Twitter @NDavies_02
-   - 📎 Visit my website: New website coming soon! Currently expected late April 2022.
-   - ➡️ Or view my other links on my Carrd page: https://ndavies.carrd.co/
+# About me
+Hello there, I’m Nathan! 👋
+
+I believe in supporting digital privacy in the age of technology 💻 & open access to accurate ℹ️information.
+
+## Quick links 🔗
+- My website 🌐: [ndavies.me](https://ndavies.me) // [ndaviestech.com](https://ndaviestech.com) 
+- About me 📖: [ndavies.carrd.co](https://ndavies.carrd.co)
+- Twitter: [twitter.com/NDavies_02](https://twitter.com/NDavies_02)
+- LinkedIn: [linkedin.com/in/ndavies-02/](https://linkedin.com/in/ndavies-02/)
