@@ -6,9 +6,8 @@ I believe in supporting digital privacy in the age of technology 💻 & open acc
 
 ![image](https://ndaviestech.com/wp-content/uploads/2022/06/Twitter-header.png)
 
-## Quick links 🔗
-- My website🌐: [ndavies.me](https://ndavies.me) // [ndaviestech.com](https://ndaviestech.com) 
-- About me📖: [ndavies.carrd.co](https://ndavies.carrd.co)
+## My Links 🔗
+- My website🌐: [ndavies.me](https://ndavies.me)
 - Twitter🐥: [twitter.com/NDavies_02](https://twitter.com/NDavies_02)
 - LinkedIn🖥️: [linkedin.com/in/ndavies-02/](https://linkedin.com/in/ndavies-02/)
-- YouTube📺: [www.youtube.com/channel/UCcSSH7dNRe22n2qkTBhJf6g](https://www.youtube.com/channel/UCcSSH7dNRe22n2qkTBhJf6g)
+- YouTube📺: [https://www.youtube.com/@ndavies02](https://www.youtube.com/@ndavies02)
