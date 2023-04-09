@@ -4,7 +4,7 @@ Hello there, I’m Nathan! 👋
 I believe in supporting digital privacy in the age of technology 💻 & open access to accurate ℹ️information.
 
 
-![image](https://ndavies.tech/wp-content/uploads/2022/06/Twitter-header.png)
+![image](https://ndavies.tech/wp-content/uploads/Twitter-header.png.webp)
 
 ## My Links 🔗
 - Website🌐: [ndavies.tech](https://ndavies.tech)
