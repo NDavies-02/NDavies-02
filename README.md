@@ -1,14 +1,15 @@
-# About me
-Hello there, I’m Nathan! 👋
+# Hello world
+Hi there, I’m Nathan! 👋
 
-I believe in supporting digital privacy in the age of technology 💻 & open access to accurate ℹ️information.
+I'm currently nearing the end of my Cyber Security studies at university. 🎓
 
+I believe in digital privacy, user choice, and open access to accurate information ℹ️ on the web.
 
 ![image](https://ndavies.tech/wp-content/uploads/X-Header.png)
 
-## My Links 🌐
+## Where to find me 🌐
 - Website 🕸️: [ndavies.tech](https://ndavies.tech)
-- LinkedIn 💼: [in/ndavies-02](https://linkedin.com/in/ndavies-02/)
-- X (formerly Twitter 🐦‍⬛): [x.com/NDavies_02](https://twitter.com/NDavies_02)
-- Bluesky 🔵: [bsky.app/ndavies02](https://bsky.app/profile/ndavies.tech)
-- Gravatar 🙋🏼‍♂️: [gravatar.com/nathand02](https://en.gravatar.com/nathand02)
+- LinkedIn 💼: [/ndavies-02](https://linkedin.com/in/ndavies-02/)
+- X (formerly Twitter 🐦‍⬛): [@NDavies_02](https://twitter.com/NDavies_02)
+- Bluesky 🔵: [@ndavies.tech](https://bsky.app/profile/ndavies.tech)
+- Gravatar 🙋🏼‍♂️: [/nathand02](https://en.gravatar.com/nathand02)
