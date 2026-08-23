@@ -3,7 +3,7 @@ Hi there, I’m Nathan! 👋
 
 I am a recent graduate in Ethical Hacking and Cyber Security. 🎓
 
-![image](https://ndavies.online/wp-content/uploads/2026/02/X-Header-2026.png)
+![image](https://ndavies.online/wp-content/uploads/2026/02/VERT_X-Header.webp)
 
 ## Where to find me 🌐
 - Website 🕸️: [ndavies.online](https://ndavies.online/)
